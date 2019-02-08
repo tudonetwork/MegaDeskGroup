@@ -1,0 +1,15 @@
+[
+  {
+    "SelectedCustomerName": "Test",
+    "QuoteDate": "2019-02-07T20:32:57.8120823-06:00",
+    "QuotedDesk": {
+      "Width": 27,
+      "Depth": 14,
+      "CountDrawer": 2,
+      "SurfaceMaterial": "Oak"
+    },
+    "SelectedBuildOption": 5,
+    "CalculatedSurfaceArea": 378,
+    "QuotedFinalCost": 540
+  }
+]
